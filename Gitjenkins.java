@@ -3,5 +3,6 @@ public class Gitjenkins {
         System.out.println("Hello, Jenkins and GitHub");
         System.out.println("I am Ameya");
         System.out.println("My first Java program using Jenkins");
+	System.out.println("Polling SCM is working!");
     }
 }
